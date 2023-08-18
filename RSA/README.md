@@ -80,6 +80,4 @@ and number theory functions.
 9. rsa.h: This specifies the interface for the RSA library.
 10. Makefile: makes the files executable
 11. README.md: describes how to execute code
-12. DESIGN.pdf: describes design of code
-13. WRITEUP.pdf: has descriptions on how my code was tested for accuracy
 

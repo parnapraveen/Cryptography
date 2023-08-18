@@ -1,4 +1,4 @@
-# Assignment 5 - Public Key Cryptography
+# Public Key Cryptography
 
 ## Building
 Run the first command in order to make encrypt.c, decrypt.c, and keygen.c executable
